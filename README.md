@@ -14,5 +14,5 @@ Code To be Uploaded on Completion.
 
 <p> Screenshot </p>
 <p align="center">
-  <img src="https://drive.google.com/open?id=0B1528WqRDtbWbEEwdjAtUEdJYzA" alt="Screenshot"/>
+  <img src="EggPlayerScreenshot" alt="Screenshot"/>
 </p>
