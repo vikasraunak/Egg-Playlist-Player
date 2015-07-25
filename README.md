@@ -13,4 +13,6 @@ Single Contributor.
 Code To be Uploaded on Completion.
 
 <p> Screenshot </p>
-<img src="https://drive.google.com/file/d/0B1528WqRDtbWbEEwdjAtUEdJYzA/view?usp=sharing"> </img>
+<p align="center">
+  <img src="https://drive.google.com/open?id=0B1528WqRDtbWbEEwdjAtUEdJYzA" alt="Screenshot"/>
+</p>
