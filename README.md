@@ -14,5 +14,5 @@ Code To be Uploaded on Completion.
 
 <p> Screenshot </p>
 <p align="center">
-  <img src="EggPlayerScreenshot" alt="Screenshot"/>
+  <img src="EggPlayerScreenshot.png" alt="Screenshot"/>
 </p>
